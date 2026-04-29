@@ -1,0 +1,7 @@
+drivers.csv	전체 드라이버 정보
+results.csv	모든 레이스 결과
+races.csv	레이스 일정/장소
+constructors.csv	팀 정보
+driver_standings.csv	시즌별 드라이버 순위
+lap_times.csv	랩타임 데이터
+pit_stops.csv	피트스탑 기록
